@@ -2,7 +2,7 @@
 <h3 align="center">Junior developer currently enrolled in CodingDojo's Web Development bootcamp</h3>
 <img align="right" alt="matrix" width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif" />
 
-- 📊 I’m currently working on **Expense Tracker**
+- 📊 I’m currently working on **Expense Tracker Application** (Java, Spring Boot, Chart.js) 
 
 - 💻 I’m currently learning **Java ☕️**
 
