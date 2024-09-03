@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
-<h3 align="center">Junior developer currently enrolled in CodingDojo's Web Development bootcamp</h3>
+<h3 align="center">Junior developer enrolled in CodingDojo's Web Development Bootcamp, holding a Bachelor of Science in Management Information Systems with a concentration in Computer Science</h3>
 <img align="right" alt="matrix" width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif" />
 
 - 📊 I’m currently working on **Expense Tracker Application** (Java, Spring Boot, Chart.js) 
