@@ -2,7 +2,7 @@
 <h3 align="center">Junior developer holding a Bachelor of Science in Management Information Systems with a concentration in Computer Science</h3>
 <img align="right" alt="matrix" width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif" />
 
-- 📊 I’m currently working on **Finance Tracker Application** (Java, Spring Boot, React.JS, Chart.js) 
+- 📊 I’m currently working on **Finance Tracker Application** (Java, Spring Boot, React.JS, Plaid, Chart.js) 
 
 - Interested in: **Software Tools, Web applications/ development, Automation, Crypto**
 
