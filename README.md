@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">Full-stack Developer holding a Bachelor of Science in Management Information Systems with a concentration in Computer Science</h3>
-<img align="right" alt="matrix" width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif" />
 
 - Interested in: **Software Tools, Web applications/ development, Automation, Crypto**
 
