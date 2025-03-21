@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">Full-stack Developer holding a Bachelor of Science in Management Information Systems with a concentration in Computer Science</h3>
 
-- Interested in: **Software Tools, Web applications, Automation, Crypto**
+- Interested in: **Web applications, Automation,Software Tools, Crypto**
 
 - ⚡ Fun fact: **For the past 13 years I've shared my life with a delightful Shiba Inu, who's been the best sunk cost I’ve ever made since he came into my life** 
 
