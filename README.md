@@ -3,7 +3,7 @@
 
 - Interested in: **Web applications, Automation, Software Tools, Crypto**
 
-- ⚡ Fun fact: **For the past 13 years I've shared my life with a delightful Shiba Inu, who's been the best sunk cost I’ve ever made since he came into my life** 
+- ⚡ Fun fact: **For the past 13 years I've shared my life with a Shiba Inu, who's been the best sunk cost I’ve ever made since he came into my life** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
