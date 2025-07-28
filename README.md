@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
-<h3 align="center">Data Curation Engineer holding a Bachelor of Science in Management Information Systems with a concentration in Computer Science</h3>
+<h3 align="center">Data Curation Engineer holding a Bachelor of Science in Management Information Systems</h3>
 
 - Interested in: **Data Engineering, Web applications, Automation, Crypto**
 
