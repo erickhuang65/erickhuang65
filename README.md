@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">Data Curation Engineer holding a Bachelor of Science in Management Information Systems</h3>
 
-- Interested in: **Data Engineering, Web applications, Automation, Crypto**
+  - Interested in: **Data Engineering, Web applications, Automation, Crypto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
