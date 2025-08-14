@@ -3,8 +3,6 @@
 
 - Interested in: **Data Engineering, Web applications, Automation, Crypto**
 
-- ⚡ Fun fact: **For the past 13 years I've shared my life with a Shiba Inu, who's been the best sunk cost I’ve ever made since he came into my life** 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erickhuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erickhuang" height="30" width="40" /></a>
